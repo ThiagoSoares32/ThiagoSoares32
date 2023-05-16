@@ -37,7 +37,6 @@ Feel free to visit [my repositories](https://github.com/bugahontas?tab=repositor
 
 ------
 
-Credit: [Candida18](https://github.com/Candida18)
 Last Edited on: 25/12/2021.
 
 <h2 align="center">Hello there! I'm [Your Name] 👋</h2>
